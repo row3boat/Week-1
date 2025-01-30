@@ -6,8 +6,11 @@ How to run:
 * Download Python 3
 * Open terminal, and open directory that contains pong.py
 * Run these commands:
-*   pip install pygame
-*   python pong.py
+
+  ```
+  pip install pygame
+  python pong.py
+  ```
 * Enjoy!
 
 
